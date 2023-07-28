@@ -1,4 +1,4 @@
-Xbox 360 Memory Dumper / Offset finder
+*Xbox 360 Memory Dumper / Offset finder*
 
 
 Designed to dump xbox 360 memory using the JRPC lib through a local are network.
