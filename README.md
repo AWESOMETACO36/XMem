@@ -1,9 +1,9 @@
 **Xbox 360 Memory Dumper / Offset finder**
 
 
-Designed to dump xbox 360 memory using the JRPC lib through a local are network.
+Designed to dump xbox 360 memory using the JRPC lib through a local area network.
 
-USAGE:
+**USAGE:**
 
 1: Connect (RGH/JTAG must be setup in neighborhood)
 
